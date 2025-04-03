@@ -3,6 +3,9 @@
 ## Overview
 📊 This project focuses on analyzing retail order data to extract meaningful insights using **Python**, **SQL**, and **Excel**. The dataset is sourced from Kaggle and processed using various tools for data cleaning, storage, and querying.
 
+![diagram](Retail-Orders-Data-Analytics-Project/Diagram.png)
+
+
 ## Dataset
 - **Source**: [Retail Orders Dataset on Kaggle](https://www.kaggle.com/datasets/ankitbansal06/retail-orders?select=orders.csv) 📥
 - **File Used**: `orders.csv` 📂
